@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: a4a85dc1376896c4ab0660e8e2e50c2b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -545051850454749922
+    second: controller gauche|Mesh_0Action
+  - first:
+      74: 5092128777209519235
+    second: controller gauche|Mesh_0Action.001
+  - first:
+      74: -2042176595605621680
+    second: controller gauche|Mesh_0Action.002
+  - first:
+      74: -5715134768695597206
+    second: controller gauche|Mesh_0Action.003
+  - first:
+      74: 1668373300643026914
+    second: controller gauche|Mesh_0Action.004
+  - first:
+      74: -3388356551831766222
+    second: controller gauche|Mesh_0Action.005
+  - first:
+      74: 7562946823456001160
+    second: controller gauche|Mesh_0Action.006
+  - first:
+      74: -7529305237876356416
+    second: controller gauche|Mesh_1Action
+  - first:
+      74: 7036781356841837809
+    second: controller gauche|Mesh_1Action.001
+  - first:
+      74: 5473568993595284508
+    second: controller gauche|Mesh_1Action.002
+  - first:
+      74: 4261509294133519905
+    second: controller gauche|Mesh_1Action.003
+  - first:
+      74: -6562113137582248873
+    second: controller gauche|Mesh_1Action.004
+  - first:
+      74: 8151038815551214853
+    second: controller gauche|Mesh_1Action.005
+  - first:
+      74: -8188342979105268842
+    second: controller gauche|Mesh_1Action.006
+  - first:
+      74: 2183512114968681319
+    second: Controller droit|Mesh_0Action
+  - first:
+      74: 3821145338258496569
+    second: Controller droit|Mesh_0Action.001
+  - first:
+      74: 5167876977042385480
+    second: Controller droit|Mesh_0Action.002
+  - first:
+      74: -5262838402638199525
+    second: Controller droit|Mesh_0Action.003
+  - first:
+      74: 2744301864639552643
+    second: Controller droit|Mesh_0Action.004
+  - first:
+      74: 458354638580895234
+    second: Controller droit|Mesh_0Action.005
+  - first:
+      74: -6283984891474616766
+    second: Controller droit|Mesh_0Action.006
+  - first:
+      74: 4006167076875476484
+    second: Controller droit|Mesh_1Action
+  - first:
+      74: 8639445213280268794
+    second: Controller droit|Mesh_1Action.001
+  - first:
+      74: 4986686219987293111
+    second: Controller droit|Mesh_1Action.002
+  - first:
+      74: -1697916670538737783
+    second: Controller droit|Mesh_1Action.003
+  - first:
+      74: -977793282777930972
+    second: Controller droit|Mesh_1Action.004
+  - first:
+      74: 5445725988184567743
+    second: Controller droit|Mesh_1Action.005
+  - first:
+      74: -3435746124023510382
+    second: Controller droit|Mesh_1Action.006
+  - first:
+      74: 3978240599833542364
+    second: Grab |Mesh_0Action
+  - first:
+      74: -9188768192481846894
+    second: Grab |Mesh_0Action.001
+  - first:
+      74: 353218406463879109
+    second: Grab |Mesh_0Action.002
+  - first:
+      74: 271369559535199835
+    second: Grab |Mesh_0Action.003
+  - first:
+      74: 8797351802719646072
+    second: Grab |Mesh_0Action.004
+  - first:
+      74: 7958769542110482228
+    second: Grab |Mesh_0Action.005
+  - first:
+      74: -1447643451587373304
+    second: Grab |Mesh_0Action.006
+  - first:
+      74: 8203951256635273323
+    second: Grab |Mesh_1Action
+  - first:
+      74: -9093876509652180528
+    second: Grab |Mesh_1Action.001
+  - first:
+      74: -5895738272530233768
+    second: Grab |Mesh_1Action.002
+  - first:
+      74: -4665486103958825322
+    second: Grab |Mesh_1Action.003
+  - first:
+      74: 7988206118059630236
+    second: Grab |Mesh_1Action.004
+  - first:
+      74: 79103906278434958
+    second: Grab |Mesh_1Action.005
+  - first:
+      74: -3563248312858765661
+    second: Grab |Mesh_1Action.006
+  - first:
+      74: 392795464921665470
+    second: Trigger|Mesh_0Action
+  - first:
+      74: -5019646217107919295
+    second: Trigger|Mesh_0Action.001
+  - first:
+      74: 3479612681388865640
+    second: Trigger|Mesh_0Action.002
+  - first:
+      74: -8998838673127567712
+    second: Trigger|Mesh_0Action.003
+  - first:
+      74: 6265908991437113673
+    second: Trigger|Mesh_0Action.004
+  - first:
+      74: 6364294496844392760
+    second: Trigger|Mesh_0Action.005
+  - first:
+      74: -8591116379773692595
+    second: Trigger|Mesh_0Action.006
+  - first:
+      74: 4797947177980917996
+    second: Trigger|Mesh_1Action
+  - first:
+      74: -2053808928058442028
+    second: Trigger|Mesh_1Action.001
+  - first:
+      74: 4138453894742432165
+    second: Trigger|Mesh_1Action.002
+  - first:
+      74: -2322107802697583509
+    second: Trigger|Mesh_1Action.003
+  - first:
+      74: -7853135133406679587
+    second: Trigger|Mesh_1Action.004
+  - first:
+      74: -8655076651770502320
+    second: Trigger|Mesh_1Action.005
+  - first:
+      74: 5632069937486936874
+    second: Trigger|Mesh_1Action.006
+  - first:
+      74: -8178650681139198713
+    second: joystick|Mesh_0Action
+  - first:
+      74: 6809618680327806937
+    second: joystick|Mesh_0Action.001
+  - first:
+      74: 5856600641771253504
+    second: joystick|Mesh_0Action.002
+  - first:
+      74: -164269456908905050
+    second: joystick|Mesh_0Action.003
+  - first:
+      74: -3302479646561819805
+    second: joystick|Mesh_0Action.004
+  - first:
+      74: 1181541437928025454
+    second: joystick|Mesh_0Action.005
+  - first:
+      74: 611037710820903548
+    second: joystick|Mesh_0Action.006
+  - first:
+      74: -8500498822917350772
+    second: joystick|Mesh_1Action
+  - first:
+      74: -5006442512613025548
+    second: joystick|Mesh_1Action.001
+  - first:
+      74: -7312471299781131556
+    second: joystick|Mesh_1Action.002
+  - first:
+      74: 6605597643530294767
+    second: joystick|Mesh_1Action.003
+  - first:
+      74: 762885989064752468
+    second: joystick|Mesh_1Action.004
+  - first:
+      74: 4527276973644423508
+    second: joystick|Mesh_1Action.005
+  - first:
+      74: 6172784783675796134
+    second: joystick|Mesh_1Action.006
+  - first:
+      74: -8430249039507411661
+    second: Bouton A|Mesh_0Action
+  - first:
+      74: -2396438365390737450
+    second: Bouton A|Mesh_0Action.001
+  - first:
+      74: 2885705682927202826
+    second: Bouton A|Mesh_0Action.002
+  - first:
+      74: -5192258793030623559
+    second: Bouton A|Mesh_0Action.003
+  - first:
+      74: 7001879155771868516
+    second: Bouton A|Mesh_0Action.004
+  - first:
+      74: 2674922047839779163
+    second: Bouton A|Mesh_0Action.005
+  - first:
+      74: 8686739073384176535
+    second: Bouton A|Mesh_0Action.006
+  - first:
+      74: 7698236778856633074
+    second: Bouton A|Mesh_1Action
+  - first:
+      74: 2850600750842568279
+    second: Bouton A|Mesh_1Action.001
+  - first:
+      74: 648820515009228189
+    second: Bouton A|Mesh_1Action.002
+  - first:
+      74: -1434491140803800627
+    second: Bouton A|Mesh_1Action.003
+  - first:
+      74: -2794448641963015470
+    second: Bouton A|Mesh_1Action.004
+  - first:
+      74: -8236647213986436186
+    second: Bouton A|Mesh_1Action.005
+  - first:
+      74: 3945184866887698586
+    second: Bouton A|Mesh_1Action.006
+  - first:
+      74: -1271019875432603032
+    second: Bouton B|Mesh_0Action
+  - first:
+      74: 5174589147543429457
+    second: Bouton B|Mesh_0Action.001
+  - first:
+      74: -1398800749701250553
+    second: Bouton B|Mesh_0Action.002
+  - first:
+      74: 1180500960925795742
+    second: Bouton B|Mesh_0Action.003
+  - first:
+      74: 8296362680121023410
+    second: Bouton B|Mesh_0Action.004
+  - first:
+      74: 4640384973421204285
+    second: Bouton B|Mesh_0Action.005
+  - first:
+      74: -1006239004322585038
+    second: Bouton B|Mesh_0Action.006
+  - first:
+      74: -1955604942961380027
+    second: Bouton B|Mesh_1Action
+  - first:
+      74: 3340171559447013952
+    second: Bouton B|Mesh_1Action.001
+  - first:
+      74: -2466539603228239703
+    second: Bouton B|Mesh_1Action.002
+  - first:
+      74: -8679386166858729901
+    second: Bouton B|Mesh_1Action.003
+  - first:
+      74: 5528015212808115067
+    second: Bouton B|Mesh_1Action.004
+  - first:
+      74: 7219394292565301913
+    second: Bouton B|Mesh_1Action.005
+  - first:
+      74: 176486337802068139
+    second: Bouton B|Mesh_1Action.006
+  - first:
+      74: 3742218752058114914
+    second: Bouton oculus|Mesh_0Action
+  - first:
+      74: 7569765421087308808
+    second: Bouton oculus|Mesh_0Action.001
+  - first:
+      74: 182200147320344694
+    second: Bouton oculus|Mesh_0Action.002
+  - first:
+      74: -421992683341720523
+    second: Bouton oculus|Mesh_0Action.003
+  - first:
+      74: 6498801144339668976
+    second: Bouton oculus|Mesh_0Action.004
+  - first:
+      74: 6814818685478654097
+    second: Bouton oculus|Mesh_0Action.005
+  - first:
+      74: -6615463997924611065
+    second: Bouton oculus|Mesh_0Action.006
+  - first:
+      74: 7879746297574427306
+    second: Bouton oculus|Mesh_1Action
+  - first:
+      74: 8297275039858548240
+    second: Bouton oculus|Mesh_1Action.001
+  - first:
+      74: -5946514134316731586
+    second: Bouton oculus|Mesh_1Action.002
+  - first:
+      74: 8455749504001187808
+    second: Bouton oculus|Mesh_1Action.003
+  - first:
+      74: -9155868797530604340
+    second: Bouton oculus|Mesh_1Action.004
+  - first:
+      74: -3288466140348704003
+    second: Bouton oculus|Mesh_1Action.005
+  - first:
+      74: -3363726782314032673
+    second: Bouton oculus|Mesh_1Action.006
+  - first:
+      74: -6783941048595844471
+    second: Grab|Mesh_0Action
+  - first:
+      74: -5253835998362402146
+    second: Grab|Mesh_0Action.001
+  - first:
+      74: -1368571149739472509
+    second: Grab|Mesh_0Action.002
+  - first:
+      74: 1295268292923820425
+    second: Grab|Mesh_0Action.003
+  - first:
+      74: 4161001449599652655
+    second: Grab|Mesh_0Action.004
+  - first:
+      74: 4442470376554808153
+    second: Grab|Mesh_0Action.005
+  - first:
+      74: 4756383525131681878
+    second: Grab|Mesh_0Action.006
+  - first:
+      74: 2888836269461578960
+    second: Grab|Mesh_1Action
+  - first:
+      74: 2712889851028718269
+    second: Grab|Mesh_1Action.001
+  - first:
+      74: -3977370818181848819
+    second: Grab|Mesh_1Action.002
+  - first:
+      74: 2020075333870143959
+    second: Grab|Mesh_1Action.003
+  - first:
+      74: -682672760332149043
+    second: Grab|Mesh_1Action.004
+  - first:
+      74: 1290086766438596481
+    second: Grab|Mesh_1Action.005
+  - first:
+      74: 3440725157679246315
+    second: Grab|Mesh_1Action.006
+  - first:
+      74: 2886637724963471731
+    second: Bouton X|Mesh_0Action
+  - first:
+      74: -1549691719746996302
+    second: Bouton X|Mesh_0Action.001
+  - first:
+      74: -2980913314008587926
+    second: Bouton X|Mesh_0Action.002
+  - first:
+      74: -5487693930687127988
+    second: Bouton X|Mesh_0Action.003
+  - first:
+      74: 7332846202357241392
+    second: Bouton X|Mesh_0Action.004
+  - first:
+      74: -5246395824454223800
+    second: Bouton X|Mesh_0Action.005
+  - first:
+      74: -1107065493693343100
+    second: Bouton X|Mesh_0Action.006
+  - first:
+      74: 4336284271224920190
+    second: Bouton X|Mesh_1Action
+  - first:
+      74: 4823304241623861042
+    second: Bouton X|Mesh_1Action.001
+  - first:
+      74: -5876380013329002022
+    second: Bouton X|Mesh_1Action.002
+  - first:
+      74: -410163702090419752
+    second: Bouton X|Mesh_1Action.003
+  - first:
+      74: 6071389101236867544
+    second: Bouton X|Mesh_1Action.004
+  - first:
+      74: 549702497567122524
+    second: Bouton X|Mesh_1Action.005
+  - first:
+      74: 7548884521077584828
+    second: Bouton X|Mesh_1Action.006
+  - first:
+      74: 1946825753046285226
+    second: Bouton Y|Mesh_0Action
+  - first:
+      74: -4040270422980616924
+    second: Bouton Y|Mesh_0Action.001
+  - first:
+      74: 2869112699015979651
+    second: Bouton Y|Mesh_0Action.002
+  - first:
+      74: 4988917336729906667
+    second: Bouton Y|Mesh_0Action.003
+  - first:
+      74: -6345670897599112526
+    second: Bouton Y|Mesh_0Action.004
+  - first:
+      74: 7754486248524764927
+    second: Bouton Y|Mesh_0Action.005
+  - first:
+      74: 8651601036346851364
+    second: Bouton Y|Mesh_0Action.006
+  - first:
+      74: -6024451813312212981
+    second: Bouton Y|Mesh_1Action
+  - first:
+      74: -2999637711827558449
+    second: Bouton Y|Mesh_1Action.001
+  - first:
+      74: -5606451143735269249
+    second: Bouton Y|Mesh_1Action.002
+  - first:
+      74: -2044934065109461311
+    second: Bouton Y|Mesh_1Action.003
+  - first:
+      74: 8883076421206986649
+    second: Bouton Y|Mesh_1Action.004
+  - first:
+      74: -1669824498388131508
+    second: Bouton Y|Mesh_1Action.005
+  - first:
+      74: 5998889788208193498
+    second: Bouton Y|Mesh_1Action.006
+  - first:
+      74: 6707912977313353445
+    second: Joystick|Mesh_0Action
+  - first:
+      74: -3045580679582409574
+    second: Joystick|Mesh_0Action.001
+  - first:
+      74: 1200533655620344939
+    second: Joystick|Mesh_0Action.002
+  - first:
+      74: -9214632870298636134
+    second: Joystick|Mesh_0Action.003
+  - first:
+      74: 3791602818458853152
+    second: Joystick|Mesh_0Action.004
+  - first:
+      74: 7206565949267175947
+    second: Joystick|Mesh_0Action.005
+  - first:
+      74: 6086329252126646583
+    second: Joystick|Mesh_0Action.006
+  - first:
+      74: 1131573782604848877
+    second: Joystick|Mesh_1Action
+  - first:
+      74: -2110618403460027151
+    second: Joystick|Mesh_1Action.001
+  - first:
+      74: -1155375655427679458
+    second: Joystick|Mesh_1Action.002
+  - first:
+      74: -3233489015922209731
+    second: Joystick|Mesh_1Action.003
+  - first:
+      74: -4716392656786125380
+    second: Joystick|Mesh_1Action.004
+  - first:
+      74: -6937482039954896095
+    second: Joystick|Mesh_1Action.005
+  - first:
+      74: -7554175852594744315
+    second: Joystick|Mesh_1Action.006
+  - first:
+      74: 7920204569506280340
+    second: Bouton menu|Mesh_0Action
+  - first:
+      74: 6586866696735618997
+    second: Bouton menu|Mesh_0Action.001
+  - first:
+      74: -8838460999784661105
+    second: Bouton menu|Mesh_0Action.002
+  - first:
+      74: -1766321741943917335
+    second: Bouton menu|Mesh_0Action.003
+  - first:
+      74: -6873075163334494828
+    second: Bouton menu|Mesh_0Action.004
+  - first:
+      74: 4028935444608976156
+    second: Bouton menu|Mesh_0Action.005
+  - first:
+      74: 3749079276969177436
+    second: Bouton menu|Mesh_0Action.006
+  - first:
+      74: 1433738286147020671
+    second: Bouton menu|Mesh_1Action
+  - first:
+      74: 8714664424512424081
+    second: Bouton menu|Mesh_1Action.001
+  - first:
+      74: -4467206610358201704
+    second: Bouton menu|Mesh_1Action.002
+  - first:
+      74: -4436946711114961285
+    second: Bouton menu|Mesh_1Action.003
+  - first:
+      74: 2142286038097816980
+    second: Bouton menu|Mesh_1Action.004
+  - first:
+      74: 8889427246959885486
+    second: Bouton menu|Mesh_1Action.005
+  - first:
+      74: -2029452185502300472
+    second: Bouton menu|Mesh_1Action.006
+  - first:
+      74: 7222416866267689407
+    second: Trigger.001|Mesh_0Action
+  - first:
+      74: 445255319812999768
+    second: Trigger.001|Mesh_0Action.001
+  - first:
+      74: -1765400665182110775
+    second: Trigger.001|Mesh_0Action.002
+  - first:
+      74: -7139443428669746688
+    second: Trigger.001|Mesh_0Action.003
+  - first:
+      74: -6770661815884594239
+    second: Trigger.001|Mesh_0Action.004
+  - first:
+      74: -5218364146366568692
+    second: Trigger.001|Mesh_0Action.005
+  - first:
+      74: -4546592929726765535
+    second: Trigger.001|Mesh_0Action.006
+  - first:
+      74: -6670973937356756185
+    second: Trigger.001|Mesh_1Action
+  - first:
+      74: 2713756486739833176
+    second: Trigger.001|Mesh_1Action.001
+  - first:
+      74: -7751031981746867327
+    second: Trigger.001|Mesh_1Action.002
+  - first:
+      74: -5021738516629437111
+    second: Trigger.001|Mesh_1Action.003
+  - first:
+      74: 8602184616810174240
+    second: Trigger.001|Mesh_1Action.004
+  - first:
+      74: -2232829861939957570
+    second: Trigger.001|Mesh_1Action.005
+  - first:
+      74: 3944770915289034426
+    second: Trigger.001|Mesh_1Action.006
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
